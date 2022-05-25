@@ -1,0 +1,30 @@
+.heading {
+    font-size: 23px;
+    margin: 0px;
+    width: 85%;
+    box-shadow: 9px 12px 11px 24px grey;
+}
+
+.note {
+    font-size: 15px;
+    color: gray;
+}
+
+.koko {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    line-height: 3;
+    color: lightseagreen;
+ background-color: gold;
+ text-align: center;
+ margin-top: 55.532869px;
+}
+
+canvas {
+    border-radius: 25px;
+    border-color: lightgoldenrodyellow;
+border-style: groove;
+border-width: 2.56123px;
+margin: 39.65859px;
+}
